@@ -1,6 +1,6 @@
 <img width="50%" alt="image" src="https://user-images.githubusercontent.com/252020/227804279-62a3693f-ffc7-487d-9ecb-c4e5aea26209.png">
 
-## (10pt) Before-semester Survey
+## Before-semester Survey
 
 **SUBMIT THIS ON DISCORD**
 
