@@ -1,5 +1,3 @@
-![image](https://github.com/a-teaching-goose/CSS342A-2024-Summer/assets/252020/d647f50a-1431-48ab-9845-3ae484f08bfa)
-
 ## Summer Fun 
 
 ## Goals ##
@@ -17,9 +15,3 @@ There are **THREE** problems to solve. Please find the description of the first 
 - [Problem 2](problem_2.md) 
 - [Problem 3](problem_3.md) 
 - [Problem 4](problem_4.md) 
-
-
-### Work Instruction
-Follow [this guide](https://github.com/a-teaching-goose/CSS342A-2024-Summer/blob/main/homeworks/work_guide.md).
-
-
