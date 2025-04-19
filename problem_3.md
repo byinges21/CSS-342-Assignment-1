@@ -1,4 +1,4 @@
-## (30pt) Identify The Perfect Customers
+##  Identify The Perfect Customers
 
 The purpose of this homework is to practice **writing your own tests**. 
 
