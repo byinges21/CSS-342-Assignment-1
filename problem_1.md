@@ -1,6 +1,6 @@
-## (30pt) Binary Search
+## Binary Search
 
-### Implement The Binary Search (20pt)
+### Implement The Binary Search 
 
 Write a function to perform binary search in an ascendingly (small to large) **sorted** integer array. 
 
@@ -27,7 +27,7 @@ Binary search will be discussed in class as part of the search problem. If you n
 
 When the homework is done, your code should pass all the tests that come from with assignment.
 
-### Fix The Tests (10pt)
+### Fix The Tests 
 
 Tests are given for this task, however, one of the tests is missing something, and will fail (memory leak) even if your binary search is correct. This failure would definitely show up when the github grader bot inspects your code. 
 
