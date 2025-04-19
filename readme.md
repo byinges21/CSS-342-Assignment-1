@@ -3,9 +3,7 @@
 ## Goals ##
 
 - C++ programming basics.
-- Write your own tests.
-- Get familiar with Git and Github ([Great tuturial from Harvard's CS50](https://youtu.be/MJUJ4wbFm_A))
-- Get comfortable with the grading submission process.
+- Writing my own tests.
 
 ### Problems To Solve
 
