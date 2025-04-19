@@ -1,4 +1,4 @@
-## (30pt) Bubble Sort
+## Bubble Sort
 
 ### Implement The Bubble Sort (30pt)
 Implement bubble sort for an integer array.
